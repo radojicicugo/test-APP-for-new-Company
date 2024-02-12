@@ -1,0 +1,381 @@
+.wrapper {
+     position: relative;
+     
+}
+.title {
+     position: absolute;
+     font-size: 96px;
+     left: 380px;
+     padding-top: 170px;
+     z-index: 2;
+     color: rgb(93, 89, 89);
+     
+}
+.title1 {
+     position: absolute;
+     font-size: 96px;
+     left: 385px;
+     padding-top: 250px;
+     z-index: 2;
+     color: #3a446d;
+     
+}
+.img-space{
+     background-image: url("novitest-45.jpg");
+     position: absolute;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+     height:20%;
+     opacity: 0.06;
+     z-index: 1;
+    
+}
+.img-mount{
+     background-image: url("novitest-44.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+     height: 500px;
+     position: relative;
+}
+.logo{
+     position: absolute;
+     z-index: 3;
+     left: 180px;
+     padding: 15px;
+
+}
+.link-header{
+     position: absolute;
+     z-index: 4;
+     right: 100px;
+     padding: 15px;
+}
+.link1-header{
+     position: absolute;
+     z-index: 4;
+     right: 200px;
+     padding: 15px;
+}
+.link{
+     color:white;
+    
+}
+.link1{
+     color:white;
+    
+}
+.section-1{
+    display: flex;
+    position: relative;
+}
+.logo1{
+    padding:20px;
+    display: block;
+    justify-content: center;
+    position: relative;
+    left: 180px;
+     
+}
+.logo-section-1{
+    display: flex;
+     padding: 20px;
+     position: relative;
+     left: 1120px;
+    
+}
+.sec-nav{
+     color:black;
+}
+.sec-nav1{
+     color:black;
+}
+.background-sec-2{
+     position: relative;
+     background-image: url("novitest-23.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+     height: 1000px;
+     
+}
+.sec-1-names{
+     position: absolute;
+     left: 70px; 
+}
+.sec-2-title1{
+     top: 95px;
+     font-size: 120px;
+     position: absolute;
+     left: 280px;
+     color:#687196;
+}
+.history-sec-2{
+     font-size: 30px;
+     position: absolute;
+     left: 395px;
+     padding-top: 170px;
+     
+}
+.square{
+     position:absolute;
+     height: 20px;
+     width: 20px;
+     background-color: #687196;
+     left:398px;
+     top: 215px;
+}
+.lorem-ipsum-sec-2{
+     position: absolute;
+     left: 290px;
+     top: 270px;
+     height: 50px;
+     width: 800px;
+     overflow-wrap: anywhere;    
+}
+.blue-footer-sec-2{
+     position: absolute;
+     height: 150px;
+     width: 100%;
+     background-color:#687196;   
+     bottom: 150px;
+     opacity: 0.4;
+     
+}
+.white-footer-sec-2{
+     position: absolute;
+     height: 150px;
+     width: 100%;
+     background-color:#ffffff;   
+     bottom: 0px;
+     
+}
+.blue-small-footer-sec-2{
+     position: absolute;
+          height: 40px;
+          width: 100%;
+          background-color:#687196;
+          bottom: 0px;
+          z-index: 1;
+}
+.sec-2-img-footer{
+     position: absolute;
+     left: 400px;
+     padding: 15px;
+     height: 150px;
+     width:220px;
+     bottom: 152px;
+
+}
+.sec-2-img-footer1{
+     position: absolute;
+     left: 600px;
+     padding: 15px;
+     height: 150px;
+     width:220px;
+     bottom: 152px;
+
+}
+.sec-2-img-footer2{
+     position: absolute;
+     left: 800px;
+     padding: 15px;
+     height: 150px;
+     width:220px;
+     bottom: 152px;
+
+}
+.sec-2-img-footer3{
+     position: absolute;
+     left: 1000px;
+     padding: 15px;
+     height: 150px;
+     width:220px;
+     bottom: 152px;
+
+}
+.sec-2-title2 {
+     position: absolute;
+     bottom: 280px;
+     font-size: 120px;
+     position: absolute;
+     left: 40px;
+     color: #687196;
+    z-index: 2;
+}
+.history-title0sec-1{
+     color:#687196;
+          
+}
+.lorem-ipsum-footer-sec-2{
+     position: absolute;
+          left: 600px;
+          top: 30px;
+          height: 50px;
+          width: 800px;
+          overflow-wrap: anywhere;
+      
+}
+.mountain-title-footer{
+   
+position: relative;
+top:8px;
+left: 400px;
+height: 25px;
+width: 120px;
+background-color: rgb(196, 206, 207);
+text-align: center;
+color: #687196;
+text-decoration: underline;
+
+}
+.mountain-title-footer1{
+    
+position: relative;
+top:8px;
+left: 400px;
+height: 25px;
+width: 120px;
+text-align: center;
+color: rgb(196, 206, 207);;
+
+}
+.blue-small-footer-sec-2{
+     display: flex;
+    
+}
+.background-sec-3{
+     background-image: url("novitest-11.jpg");
+          background-repeat: no-repeat;
+          background-size: cover;
+          width: 100%;
+          height: 800px;
+          position: relative;         
+}
+.shedule{
+     height: 300px;
+     width:400px;
+     position: relative;
+     background-color:white;
+     left:300px;
+     top: 280px;
+     opacity: 0.8 ;
+}
+.la-sec1{
+     position: relative;
+     
+}
+.mount-sec1{
+     position: relative;
+     bottom:8px;
+}
+.sec-1-names{
+     color: #687196;
+}
+.tit-shedule{
+     color:#687196;
+     position: relative;
+     left: 30px;
+     padding: 25px;  
+}
+.schedule-flex{
+     /*display: flex;
+          flex-grow: 1;*/
+     height: 20px;
+     width:400px ;
+     position: relative;
+}
+.sch-p{
+     position: absolute;
+     left: 30px;
+}
+.sch-p1{
+     position: absolute;
+     right: 30px;
+}
+.schedule-flex1 {
+     display: flex;
+     flex-grow: 1;
+     height: 20px;
+     width: 400px;
+     padding:30px;
+}
+.footer-section3{
+     top: 450px;
+     position: relative;
+     z-index: 2;
+     bottom: 0px;
+     height: 60px;
+     background-color: #687196;
+              
+}
+.footer-title-sec3{
+ 
+}
+
+.footer-title-right-sec3{
+     font-size: 12px;
+     padding: 20px;
+     color: rgb(171, 171, 192);
+     position: absolute;
+     right: 200px;
+}
+.logo3{
+     position: absolute;
+     color: rgb(171, 171, 192);
+}
+.sec-3-names{
+     position: absolute;
+     left: 200px;
+
+}
+.logo-3-section3-img{
+padding: 8px;
+position: absolute;
+left:180px;
+}
+.la-sec3{
+     position: relative;
+     left: 30px;
+     padding:10px;
+}
+.mount-sec3{
+     position: absolute;
+     left:40px;
+     top:25px;
+}
+.mobile-logo{
+     visibility: hidden;
+}
+
+
+
+
+
+/* I really didn't have time to bring the responsive to the end due to time. In any case, I hope you see that I am not unfamiliar with all this... 
+I set only the menu and hid the other elements because there are really a lot of little things about the project itself,
+unfortunately I'm sending it to you like this...
+*/
+
+@media only screen and (max-width: 600px) {
+   .wrapper{
+     display: none;
+   }
+  .menu{
+     height: 50px;
+     width: 50px;
+     position: absolute;
+     right: 40px;
+     padding: 10px;
+  }
+   
+}
+
+@media only screen and (min-width: 900px) {
+  
+.mob-response-header{
+     display: none;
+}
+   
+}
